@@ -1,0 +1,18 @@
+@charset "utf-8";
+body h1 {
+	color: #F38D0D;
+	font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+	font-size: 40px;
+}
+.key {
+	color: #F2F770;
+	background-color: #003CFF;
+	font-size: x-large;
+}
+body p img {
+	border: 10px dotted #32FF00;
+}
+body  {
+	background-image: url(07.jpg);
+	background-repeat: repeat;
+}
